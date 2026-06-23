@@ -78,6 +78,4 @@ $PROJECT/.omx/skills/
 - 更新方式：本仓库 `git pull` 后重启 Codex 会话即可热加载新 Skill 规则
 
 ---
-
-**维护者**：kcd-dev
 **许可证**：MIT
