@@ -1,4 +1,4 @@
-# KCD Codex Skills — 上下文归档与记忆治理套件
+# Codex Skills — 上下文归档与记忆治理套件
 
 > **本套件专为 [Codex / OMX](https://github.com/openai/codex) 设计，需配合 Codex 的 Skill 系统与 Memory 体系使用。**
 
